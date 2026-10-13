@@ -1691,6 +1691,26 @@
       "homepage": "https://github.com/Samuel-wyj/cpa-client-guard",
       "license": "MIT",
       "tags": ["Interceptor", "Security", "Management", "Codex"]
+    },
+    {
+      "id": "quota-monitor",
+      "name": "Quota Monitor",
+      "description": "Dashboard of remaining quota and reset times for Codex, Claude and Antigravity accounts. Collects from the host's auth files with a cached snapshot and a refresh cooldown, and serves a bilingual (Korean/English) responsive page that loads no external assets.",
+      "author": "dohwi",
+      "repository": "https://github.com/dohwi/cliproxyapi-plugin-quota-monitor",
+      "homepage": "https://github.com/dohwi/cliproxyapi-plugin-quota-monitor",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "tags": ["Quota", "Dashboard", "Monitoring", "Management"]
+    },
+    {
+      "id": "usage-audit",
+      "name": "Usage Audit",
+      "description": "Token usage audit dashboard: records per-request provider, endpoint, model, token and latency metadata without storing keys, prompts or response bodies, with period filters, charts, a request log and a bilingual (Korean/English) UI.",
+      "author": "dohwi",
+      "repository": "https://github.com/dohwi/cliproxyapi-plugin-usage-audit",
+      "homepage": "https://github.com/dohwi/cliproxyapi-plugin-usage-audit",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "tags": ["Usage", "Statistics", "Dashboard", "Management"]
     }
   ]
 }
