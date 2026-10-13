@@ -1699,7 +1699,7 @@
       "author": "dohwi",
       "repository": "https://github.com/dohwi/cliproxyapi-plugin-quota-monitor",
       "homepage": "https://github.com/dohwi/cliproxyapi-plugin-quota-monitor",
-      "license": "PolyForm-Noncommercial-1.0.0",
+      "license": "MIT",
       "tags": ["Quota", "Dashboard", "Monitoring", "Management"]
     },
     {
@@ -1709,7 +1709,7 @@
       "author": "dohwi",
       "repository": "https://github.com/dohwi/cliproxyapi-plugin-usage-audit",
       "homepage": "https://github.com/dohwi/cliproxyapi-plugin-usage-audit",
-      "license": "PolyForm-Noncommercial-1.0.0",
+      "license": "MIT",
       "tags": ["Usage", "Statistics", "Dashboard", "Management"]
     }
   ]
